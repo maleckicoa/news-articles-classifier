@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Virtual environment (Poetry or venv)
+.venv/
+venv/
+env/
+
+# Poetry lock file (if you don’t want to commit it)
+poetry.lock
+
+# IDE and editor files
+.vscode/
+.idea/
+.DS_Store
+
+# Byte-compiled / cache files
+*.pyo
+*.pyd
+*.pdb
+*.pyc
+*.py.class
+
+# Misc
+*.sqlite3
+*.db
+
